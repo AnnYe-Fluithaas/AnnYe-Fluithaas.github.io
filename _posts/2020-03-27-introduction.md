@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 date:   2020-03-27 12:25:00 +0100
-categories: jekyll update
+# categories: blog
 ---
 Welcome to my humble blog.
 

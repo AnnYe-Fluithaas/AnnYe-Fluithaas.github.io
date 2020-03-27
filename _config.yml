@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Still to be determined
+title: Name still to be determined
 email: ann.ye@mendix.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog sharing some discoveries and learnings I had during my coding experience.
